@@ -1,0 +1,9 @@
+#忽略js下的flexible
+js/flexible.js
+
+
+#忽略css下的index.css
+index.css
+
+#忽略所有文件下的lib文件夹
+lib/
