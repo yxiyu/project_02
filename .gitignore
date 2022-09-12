@@ -5,5 +5,7 @@ flexible.js
 #忽略css下的index.css
 index.css
 
-#忽略所有文件下的lib文件夹
+#忽略所有文件下的lib less文件夹
 lib/
+
+less/
